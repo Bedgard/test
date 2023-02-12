@@ -52,3 +52,6 @@ function paul ()
 { console.log("merci")}
 
 paul();
+
+
+let = salut;
